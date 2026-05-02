@@ -1,15 +1,15 @@
 # 🚀 Xenon Space Exploration
-
-A cinematic space exploration web experience built with **React**, featuring immersive animations, futuristic UI, and smooth interactive transitions.
-
-🔗 **Live Demo:** https://xenon-space-exploration.vercel.app/  
-📂 **Repository:** https://github.com/Hiran-Abhisheka/Xenon-Space-Exploration  
-
 ---
 
 ## 🌌 Preview
 
 ![Xenon Preview](https://i.postimg.cc/sggBL4Z4/Screenshot-2026-05-02-140050.png)
+
+---
+
+A cinematic space exploration web experience built with **React**, featuring immersive animations, futuristic UI, and smooth interactive transitions.
+
+🔗 **Live Demo:** https://xenon-space-exploration.vercel.app/  
 
 ---
 
